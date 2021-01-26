@@ -8,6 +8,7 @@ namespace InClass1
         {
             Console.WriteLine("Guten Tag!");
             Console.WriteLine("Guten Nacht!");
+            //New code inserted here
         }
     }
 }
