@@ -6,7 +6,8 @@ namespace InClass1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Guten Tag!");
+            Console.WriteLine("Guten Nacht!");
         }
     }
 }
